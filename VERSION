@@ -1,0 +1,32 @@
+#!/bin/bash
+
+WALLPAPER=siduction-breeze
+CODENAME_SAFE=siduction-breeze
+DISPLAY_NAME=siduction-breeze
+VERSION=2022.1.0
+DISTRIBUTION=unstable
+
+
+# sddm.conf
+RELOGIN=false
+AUTOSESSION=
+AUTOUSER=
+NUMLOCK=none
+CURSORTHEME=
+CURRENTTHEME=debian-theme
+REMEMBERLASTSESSION=true
+REMEMBERLASTUSER=true
+
+# Main.qml
+# BOXWIDTH=565
+# BOXHEIGTH=165
+# BOXTOPMARGIN=150
+# BOXCOLOR="#303030"
+# BOXOPACITY=0.35
+# BOXRADIUS=6
+
+# metadata.desktop
+PREVIEW="images/preview.png"
+
+#theme.conf
+BACKGROUND="backgound.svg"

@@ -1,0 +1,24 @@
+Source: sddm-theme-siduction-breeze
+Maintainer: Torsten Wohlfart <towo@siduction.org>
+Uploaders: Hendrik Lehmbruch <hendrikl@siduction.org>
+Section: x11
+Priority: optional
+Build-Depends: debhelper (>= 11)
+Standards-Version: 4.1.4
+Vcs-Browser: https://github.com/siduction/sddm-theme-siduction-breeze
+Vcs-Git: https://github.com/siduction/sddm-theme-siduction-breeze.git
+Homepage: https://github.com/siduction/sddm-theme-siduction-breeze
+
+Package: sddm-theme-siduction-breeze
+Architecture: all
+Depends: ${misc:Depends},
+         plasma-framework,
+         plasma-workspace,
+         sddm-theme-breeze,
+         mow-wallpapers,
+Recommends: sddm
+Provides: sddm-theme
+Description:  theme for sddm
+ siduction breeze sddm theme.
+ .
+ This package contain a sddm breeze theme for siduction.

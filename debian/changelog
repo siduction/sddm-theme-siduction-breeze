@@ -1,0 +1,193 @@
+sddm-theme-mow (2022.1.0-5) unstable; urgency=medium
+
+  * package latest changes by hhl
+
+ -- Torsten Wohlfarth <towo@siduction.org>  Thu, 22 Dec 2022 13:10:58 +0100
+
+sddm-theme-mow (2022.1.0-4) unstable; urgency=medium
+
+  * import deppspace image
+
+ -- Torsten Wohlfarth <towo@siduction.org>  Wed, 14 Dec 2022 18:26:19 +0100
+
+sddm-theme-mow (2022.1.0-3) unstable; urgency=medium
+
+  * packaging latest changes
+
+ -- Torsten Wohlfarth <towo@siduction.org>  Wed, 14 Dec 2022 09:10:06 +0100
+
+sddm-theme-mow (2022.1.0-2) unstable; urgency=medium
+
+  * new graphic
+
+ -- Torsten Wohlfarth <towo@siduction.org>  Tue, 13 Dec 2022 09:01:30 +0100
+
+sddm-theme-mow (2022.1.0-1) unstable; urgency=medium
+
+  * prepare Masters of War release
+
+ -- Torsten Wohlfarth <towo@siduction.org>  Sat, 10 Dec 2022 17:35:26 +0100
+
+sddm-theme-wintersky (2021.3.0-2) unstable; urgency=medium
+
+  * fix cursor focus
+
+ -- Torsten Wohlfarth <towo@siduction.org>  Tue, 18 Jan 2022 08:20:08 +0100
+
+sddm-theme-wintersky (2021.3.0-1) unstable; urgency=medium
+
+  * wintersky release
+
+ -- Torsten Wohlfarth <towo@siduction.org>  Wed, 22 Dec 2021 14:32:07 +0100
+
+sddm-theme-wintersky (2021.2.99-5) unstable; urgency=medium
+
+  * package changes by hendrikL
+
+ -- Torsten Wohlfarth <towo@siduction.org>  Wed, 15 Dec 2021 10:28:08 +0100
+
+sddm-theme-wintersky (2021.2.99-4) unstable; urgency=medium
+
+  * fix postinst
+
+ -- Torsten Wohlfarth <towo@siduction.org>  Sun, 05 Dec 2021 15:41:08 +0100
+
+sddm-theme-wintersky (2021.2.99-3) unstable; urgency=medium
+
+  * removed the big svg
+
+ -- Torsten Wohlfarth <towo@siduction.org>  Sun, 28 Nov 2021 14:52:28 +0100
+
+sddm-theme-wintersky (2021.2.99-2) unstable; urgency=medium
+
+  * add etc/sddm.conf
+
+ -- Torsten Wohlfarth <towo@siduction.org>  Sat, 27 Nov 2021 17:01:13 +0100
+
+sddm-theme-wintersky (2021.2.99-1) unstable; urgency=medium
+
+  * prepare wintersky release
+
+ -- Torsten Wohlfarth <towo@siduction.org>  Sat, 27 Nov 2021 16:53:39 +0100
+
+sddm-theme-farewell (2021.1.99-1) unstable; urgency=medium
+
+  * prepare farewell release
+
+ -- Torsten Wohlfarth <towo@siduction.org>  Mon, 07 Jun 2021 22:51:05 +0200
+
+sddm-theme-cblues (2021.1.0-2) unstable; urgency=medium
+
+  * fix foo
+
+ -- Torsten Wohlfarth <towo@siduction.org>  Sun, 31 Jan 2021 00:38:51 +0100
+
+sddm-theme-cblues (2021.1.0-1) unstable; urgency=medium
+
+  * fix codename safe
+
+ -- Torsten Wohlfarth <towo@siduction.org>  Sat, 30 Jan 2021 22:41:42 +0100
+
+sddm-theme-c-blues (2021.1.0-1) unstable; urgency=medium
+
+  * fix debian/install
+
+ -- Torsten Wohlfarth <towo@siduction.org>  Sat, 30 Jan 2021 17:22:27 +0100
+
+sddm-theme-c-blues (2021.1.0) unstable; urgency=medium
+
+  [ Hendrik Lehmbruch ]
+  * preparing c-blues release 21.1 
+
+  [ Torsten Wohlfarth ]
+  * build and upload for release
+
+ -- Torsten Wohlfarth <towo@siduction.org>  Sat, 30 Jan 2021 17:05:30 +0100
+
+sddm-theme-patience (2018.3.0-1) unstable; urgency=medium
+
+  * release 18.3
+
+ -- Alf Gaida <agaida@siduction.org>  Sun, 13 May 2018 19:08:04 +0200
+
+sddm-theme-patience (2018.2.0-1) unstable; urgency=medium
+
+  * release 18.2
+
+ -- Alf Gaida <agaida@siduction.org>  Sat, 03 Mar 2018 14:18:18 +0100
+
+sddm-theme-patience (2018.1.0-1) unstable; urgency=medium
+
+  * release 18.1 
+
+ -- Alf Gaida <agaida@siduction.org>  Wed, 27 Dec 2017 00:33:08 +0100
+
+sddm-theme-patience (2017.1.0-2) unstable; urgency=medium
+
+  * fix sddm.conf
+
+ -- Alf Gaida <agaida@siduction.org>  Wed, 01 Mar 2017 18:57:19 +0100
+
+sddm-theme-patience (2017.1.0-1) unstable; urgency=medium
+
+  * release branding
+  * added postinst and prerm - using debian alternatives
+
+ -- Alf Gaida <agaida@siduction.org>  Wed, 01 Mar 2017 17:13:15 +0100
+
+sddm-theme-patience (2016.1.0-2) unstable; urgency=medium
+
+  * new sddm.conf handling
+
+ -- Alf Gaida <agaida@siduction.org>  Fri, 27 Jan 2017 21:38:59 +0100
+
+sddm-theme-patience (2016.1.0-1) unstable; urgency=medium
+
+  * the release is near
+
+ -- Alf Gaida <agaida@siduction.org>  Fri, 23 Dec 2016 22:36:24 +0100
+
+sddm-theme-patience (2016.1.0~alpha-7) unstable; urgency=medium
+
+  * new bootstrap fix the kcm issue 
+
+ -- Alf Gaida <agaida@siduction.org>  Thu, 01 Sep 2016 18:28:06 +0200
+
+sddm-theme-patience (2016.1.0~alpha-6) unstable; urgency=medium
+
+  * package is all instead of any
+
+ -- Alf Gaida <agaida@siduction.org>  Thu, 01 Sep 2016 02:51:40 +0200
+
+sddm-theme-patience (2016.1.0~alpha-5) unstable; urgency=medium
+
+  * install preview.jpg again
+  * bumped copyright years
+  * fixed copyright files
+
+ -- Alf Gaida <agaida@siduction.org>  Thu, 01 Sep 2016 01:22:53 +0200
+
+sddm-theme-patience (2016.1.0~alpha-4) unstable; urgency=medium
+
+  * cherry-picked latest changes from templates branch 
+  * new bootstrap
+
+ -- Alf Gaida <agaida@siduction.org>  Wed, 31 Aug 2016 00:00:58 +0200
+
+sddm-theme-patience (2016.1.0~alpha-3) unstable; urgency=medium
+
+  * update configurations 
+
+ -- Alf Gaida <agaida@siduction.org>  Tue, 30 Aug 2016 22:43:16 +0200
+
+sddm-theme-patience (2016.1.0~alpha-2) unstable; urgency=medium
+
+  * bootstrapped the latest template changes, thanks hendrikL 
+
+ -- Alf Gaida <agaida@siduction.org>  Tue, 30 Aug 2016 20:58:25 +0200
+
+sddm-theme-patience (2016.1.0~alpha-1) unstable; urgency=medium
+
+  * Initial release
+
+ -- Alf Gaida <agaida@siduction.org>  Sat, 13 Aug 2016 10:24:24 +0200
