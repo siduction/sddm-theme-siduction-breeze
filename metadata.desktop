@@ -1,0 +1,17 @@
+[SddmGreeterTheme]
+Name=siduction-breeze
+Description=Breeze Theme using siduction artwork
+Description[fr]=Thème brise utilisant l’apparence siductioon
+Author=Adapted by the siduction Team from the KDE Visual Design Group work and Debian Qt/KDE Team work
+Copyright=(c) 2023, Hendrik lehmbruch
+License=CC-BY-SA
+Type=sddm-theme
+Version=0.1
+Website=https://github.com/sddm/sddm
+Screenshot=images/preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=hendrikL@siduction.org
+Theme-Id=siduction-breeze
+Theme-API=2.0
