@@ -18,7 +18,9 @@ Depends: ${misc:Depends},
          mow-wallpapers,
 Recommends: sddm
 Provides: sddm-theme
-Description:  theme for sddm
- siduction breeze sddm theme.
+Description:   Plasma Workspace for KF5. Workspaces provide
+ support for KDE Plasma Widgets, integrated search,
+ hardware management and a high degree of customizability.
+ Taskmanager library.
  .
- This package contain a sddm breeze theme for siduction.
+ This package contain a SDDM breeze theme adapted for siduction.
