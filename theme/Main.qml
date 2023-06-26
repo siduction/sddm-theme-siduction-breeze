@@ -13,9 +13,9 @@ import org.kde.plasma.core 2.0 as PlasmaCore
 import org.kde.plasma.components 3.0 as PlasmaComponents3
 import org.kde.plasma.extras 2.0 as PlasmaExtras
 
-import "../breeze"
-import "../breeze/components"
-import "../breeze/components/animation"
+// import "../breeze"
+import "./components"
+import "./components/animation"
 
 import "./images"
 
@@ -556,6 +556,7 @@ PlasmaCore.ColorScope {
                 visible: inputPanel.status === Loader.Ready
             }
 
+/*
             KeyboardButton {
                 font.pointSize: config.fontSize
 
@@ -564,7 +565,7 @@ PlasmaCore.ColorScope {
                     // keystrokes get eaten
                     userListComponent.mainPasswordBox.forceActiveFocus();
                 }
-            }
+            }*/
 
             SessionButton {
                 id: sessionButton
