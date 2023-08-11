@@ -15,7 +15,7 @@ Depends: ${misc:Depends},
          plasma-framework,
          plasma-workspace,
          sddm-theme-breeze,
-         mow-wallpapers,
+         giant-wallpapers,
 Recommends: sddm
 Provides: sddm-theme
 Description:   Plasma Workspace for KF5. Workspaces provide
