@@ -1,4 +1,4 @@
-Source: sddm-theme-siduction-breeze
+Source: sddm-theme-siduction-breeze-giants
 Maintainer: Torsten Wohlfart <towo@siduction.org>
 Uploaders: Hendrik Lehmbruch <hendrikl@siduction.org>
 Section: x11
@@ -9,7 +9,7 @@ Vcs-Browser: https://github.com/siduction/sddm-theme-siduction-breeze
 Vcs-Git: https://github.com/siduction/sddm-theme-siduction-breeze.git
 Homepage: https://github.com/siduction/sddm-theme-siduction-breeze
 
-Package: sddm-theme-siduction-breeze
+Package: sddm-theme-siduction-breeze-giants
 Architecture: all
 Depends: ${misc:Depends},
          plasma-framework,

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-WALLPAPER=siduction-mow
+WALLPAPER=siduction-giants
 CODENAME_SAFE=siduction-breeze
 DISPLAY_NAME=siduction-breeze
 VERSION=2022.1.0
@@ -29,4 +29,4 @@ REMEMBERLASTUSER=true
 PREVIEW="images/preview.png"
 
 #theme.conf
-BACKGROUND="backgound.svg"
+BACKGROUND="images/backgound.svg"
