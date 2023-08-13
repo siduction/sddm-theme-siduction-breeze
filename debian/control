@@ -12,8 +12,6 @@ Homepage: https://github.com/siduction/sddm-theme-siduction-breeze
 Package: sddm-theme-siduction-breeze-giants
 Architecture: all
 Depends: ${misc:Depends},
-         plasma-framework,
-         plasma-workspace,
          sddm-theme-breeze,
          giants-wallpapers,
 Recommends: sddm
